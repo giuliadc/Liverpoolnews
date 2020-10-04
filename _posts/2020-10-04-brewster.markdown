@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Rhian Brewster é vendido"
+date:   2020-10-04 12:59:25 -0300
+categories: jekyll update
+---
+
+<main>
+        <section class="posts">
+        <article>
+                <header>
+                    <h1>Rhian Brewster é vendido</h1>
+                    <p>3 dias atrás</p>
+                </header>
+                <p>Rhian Brewster foi vendido por 23.5 milhões de libras para o Sheffield United, com cláusula de recompra.</p>
+                <img src="{{'/assets/images/brew.jpg' | relative_url}}" alt="Liverpool vs Aston Villa"/>
+                <footer>
+                    <p>Escrito por Giulia Cardella</p>
+                </footer>
+        </article>
+        </section>
+    </main>
