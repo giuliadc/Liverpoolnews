@@ -7,6 +7,7 @@ categories: jekyll update
 
 <main>
         <section class="posts">
+            <article>
                 <header>
                     <h1>Sadio Mané testa positivo para COVID-19</h1>
                     <p>4 dias atrás</p>
@@ -16,5 +17,6 @@ categories: jekyll update
                 <footer>
                     <p>Escrito por Vitor.</p>
                 </footer>
+            </article>
         </section>
     </main>

@@ -7,11 +7,13 @@ categories: jekyll update
 
 <main>
         <section class="posts">
+            <article>
                 <header>
                     <h1>Thiago Alcântara, estrela do Bayern de Munique, junta-se ao LFC</h1>
                     <p>1 mês atrás</p>
                 </header>
                 <p>Melhor meia do mundo torna-se parte do maior da Inglaterra.</p>
                 <img src="{{'/assets/images/thiago.jpg' | relative_url}}" alt="Estreia de Thiago"/>
+            </article>
         </section>
     </main>
