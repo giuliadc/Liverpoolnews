@@ -13,7 +13,7 @@
     </header>
     <nav id="navegacao-principal">
         <ul >
-        <li><a href="http://localhost:4000/">Voltar a home</a></li>
+        <li><a href="{{ home.url | relative_url}} ">Voltar a home</a></li>
          {% for post in site.posts %}
         <li > <a href ="{{ post.url | relative_url}} "> {{ post.title }} </a> </li >
         {% endfor %}
