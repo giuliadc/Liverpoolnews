@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Mané teste positivo para Covid"
+date:   2020-10-04 12:59:25 -0300
+categories: jekyll update
+---
+
+<main>
+        <section class="posts">
+                <header>
+                    <h1>Liverpool enfrenta Aston Villa na quarta rodada do campeonato</h1>
+                    <p>3 dias atrás</p>
+                </header>
+                <p>Um clássico acontece nesse domingo, 04/10.</p>
+                <img src="'{{/assets/images/aston_liv.png | relative_url'}}" alt="Liverpool vs Aston Villa"/>
+                <footer>
+                    <p>Escrito por Giulia Cardella</p>
+                </footer>
+        </section>
+    </main>
